@@ -1,2 +1,2 @@
 # Junk-Box
-A trash heap for all the code I'm writing.
+A trash heap for the code I'm writing.
